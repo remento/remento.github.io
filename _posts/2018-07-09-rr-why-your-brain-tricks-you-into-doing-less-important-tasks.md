@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "rr: Why Your Brain Tricks You Into Doing Less Important Tasks"
-date:   2018-06-18 12:00:00 -0500
+date:   2018-07-09 12:00:00 -0500
 categories: recommended-reading
 excerpt_separator: <!--more-->
 ---
