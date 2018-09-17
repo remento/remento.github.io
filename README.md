@@ -1,2 +1,7 @@
 # remento.github.io
-Compiled and published homepage
+## www.danmoore.org
+
+Personal home page of Daniel Moore 
+
+Built with Jekyll & hosted by GitHub pages
+
