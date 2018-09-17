@@ -1,0 +1,75 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+#You can find the source code for Minima at GitHub:
+#[jekyll][jekyll-organization] /
+#[minima](https://github.com/jekyll/minima)
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Dan's Bookmarks & Books
+author: Daniel F Moore
+email: remento@gmail.com
+description: >- # this means to ignore newlines until "baseurl:" #It will appear in your document head meta (for Google search results) and in your feed.xml site description. 
+  in Austin Texas  
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.danmoore.org" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username:  remento
+linkedin_username:  memento
+
+
+minima:
+  date_format: "%B %Y"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Top Nav
+header_pages:
+  - posts.md
+  - books.md
+  - about.md
+
+# DFM: To enable Google Analytics, add the following lines to your Jekyll site; Google Analytics will only appear in production, i.e., JEKYLL_ENV=production
+google_analytics: UA-2879727-1
+
+# To display post-excerpts on the Home Page
+show_excerpts: true
+
+# Control how post links are built @see https://medium.com/@mittalyashu/how-to-remove-html-extension-in-jekyll-efeb48bd725f
+permalink: /:categories/:title
+
+
+# Live Reload for dev (cannot get working)
+# reloader:
+#   error_file: nil
+#   host: Jekyll::Site#config["host"]
+#   port: 35729
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+
