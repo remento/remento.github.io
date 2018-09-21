@@ -1,6 +1,5 @@
 ---
 layout: page
-title: OrgAction
 permalink: /orgaction/
 ---
 
@@ -14,7 +13,10 @@ Creating and running the OrgAction service has been a great experience but my at
 
 All OrgAction clients have transitioned to other services and I encourage you to contact them directly to learn about volunteering opportunities.
 
+
 Sincerely,
+
 Daniel Moore
+
 [www.danmoore.org](https://www.danmoore.org)
 
