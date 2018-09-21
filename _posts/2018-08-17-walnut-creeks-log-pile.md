@@ -12,4 +12,4 @@ I have been riding Austin’s trails off and on since moving to town over 15 yea
 
 Hitting that pile of logs harder each week has helped me focus on other parts of my life where instead of stopping – I should be peddling harder and holding on tight.
 
-![Walnut Creek Log Pile August 2018](/assets/walnutCreekLogPile.jpg){:class="img-responsive"}
+![Walnut Creek Log Pile August 2018](/assets/renditions/walnutCreekLogPile_b_740_359.jpg){:class="img-responsive"}
