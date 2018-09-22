@@ -5,6 +5,9 @@ permalink: /orgaction/
 
 ![OrgAction Logo](/assets/OrgAction-Logo.png)
 
+<br>
+<br>
+
 Dear Volunteer Coordinators,
 
 The OrgAction Volunteer Management Service has permanently shut down effective September 3, 2016.
@@ -13,10 +16,8 @@ Creating and running the OrgAction service has been a great experience but my at
 
 All OrgAction clients have transitioned to other services and I encourage you to contact them directly to learn about volunteering opportunities.
 
-
-Sincerely,
-
-Daniel Moore
-
+Sincerely,  
+Daniel Moore  
 [www.danmoore.org](https://www.danmoore.org)
-
+<br>  
+![OrgAction Logo](/assets/oa-icon-logo-background.png){:style="float:right;margin-bottom:-30px;"}

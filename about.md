@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I have worked as a small business owner, developer, dev lead, and dev manager. Creative problem solving and the satisfaction of getting a challenging project done well have always been very satisfying for me. Find out more about what I have worked on at [Linked In](https://www.linkedin.com/in/memento).
+I have worked as a small business owner, developer, dev lead, and dev manager. Creative problem solving and the satisfaction of getting a challenging project done well have always been strong motivators for me. Find out more about what I have worked on at [Linked In](https://www.linkedin.com/in/memento).
 
 And for some interesting pics of me and my family...
 
