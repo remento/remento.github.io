@@ -6,9 +6,9 @@ permalink: /projects/
 
 
 ### OrgAction Volunteer Management Service
-OrgAction provided web portals to non-profit organizations for the purpose of registering volunteers online and collecting information with a series of custom web forms. Volunteers could register for shifts or be assigned to them by an administrator. Communication features like bulletin boards and email templates simplified the work of communicating with large volunteer bases.
+OA provided web portals to non-profit organizations for the purpose of registering volunteers online and collecting information with a series of custom web forms. Volunteers could register for shifts or be assigned to them by an administrator. Communication features like bulletin boards and email templates simplified the work of communicating with large volunteer bases. However, I eventually had to shift my focus elsewhere, and after completing a multiyear wind down, the volunteer service shutdown in 2016.
 
-However, I eventually had to shift my focus elsewhere, and after completing a multiyear wind down, the service shutdown in 2016.
+The legal entity survives and is used to incubate various projects and manage consulting engagements.
 
 ### Other projects
 I have a few odds and ends on GitHub. They are typically done as an excuse to familiarize myself with some technology.
