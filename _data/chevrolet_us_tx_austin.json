@@ -1,0 +1,4259 @@
+{
+ "_fetchUrl": "https://www.chevrolet.com/OCRestServices/dealer/cityState/v1/chevrolet/austin/tx?distance=500&maxResults=25",
+ "_fetchHeaders": {
+  "clientapplicationid": "OCNATIVEAPP",
+  "locale": "en_US",
+  "loginid": "mytest016@outlook.com"
+ },
+ "_fetchDate": "Sat Sep 22 2018 09:58:42 GMT-0500",
+ "status": "success",
+ "payload": {
+  "dealers": [
+   {
+    "id": 114906,
+    "dealerName": "HENNA CHEVROLET, L.P.",
+    "generalContact": {
+     "email1": "markrowe@henna.com",
+     "phone1": "(512) 832-1888",
+     "phone2": "(512) 354-4776"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.hennachevyatx.com",
+    "scheduleServiceUrl": "http://www.hennachevyatx.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.3514,
+     "longitude": -97.6915
+    },
+    "address": {
+     "addressLine1": "8805 IH-35 N",
+     "postalCode": "787534875",
+     "cityName": "AUSTIN",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 5.4937,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Natural Gas Vehicles",
+      "code": "108"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "COLLISION - WHOLESALE",
+      "code": "209"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30257",
+    "sellingBrandCode": "13",
+    "bac": "114906",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 164064,
+    "dealerName": "AUTONATION CHEVROLET WEST AUSTIN",
+    "generalContact": {
+     "email1": "knowlesr1@autonation.com",
+     "phone1": "(512) 345-7890",
+     "phone2": "(512) 518-6536"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.autonationchevroletwestaustin.com",
+    "scheduleServiceUrl": "http://www.autonationchevroletwestaustin.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.41,
+     "longitude": -97.7458
+    },
+    "address": {
+     "addressLine1": "11400 RESEARCH BLVD",
+     "postalCode": "787594154",
+     "cityName": "AUSTIN",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 10.6676,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30033",
+    "sellingBrandCode": "13",
+    "bac": "164064",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 161576,
+    "dealerName": "CAPITOL CHEVROLET, INC.",
+    "generalContact": {
+     "email1": "joshb@capitolchevy.com",
+     "phone1": "(512) 444-8888",
+     "phone2": "(512) 649-7131"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "03:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.capitolchevy.com",
+    "scheduleServiceUrl": "http://www.capitolchevy.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.1939,
+     "longitude": -97.7691
+    },
+    "address": {
+     "addressLine1": "6200 S IH 35",
+     "postalCode": "787454531",
+     "cityName": "AUSTIN",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 10.7843,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "COLLISION - WHOLESALE",
+      "code": "209"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30021",
+    "sellingBrandCode": "13",
+    "bac": "161576",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 279899,
+    "dealerName": "RUSH CHEVROLET",
+    "generalContact": {
+     "phone1": "(512) 281-2210",
+     "phone2": "(888) 970-9581"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "11:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       7
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.rushchevrolet.com",
+    "scheduleServiceUrl": "http://www.rushchevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.35218,
+     "longitude": -97.39573
+    },
+    "address": {
+     "addressLine1": "1395 HWY 290 WEST",
+     "postalCode": "786214245",
+     "cityName": "ELGIN",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 14.5056,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "Cadillac E-Commerce Dealer",
+      "code": "122"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30382",
+    "sellingBrandCode": "13",
+    "bac": "279899",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 161005,
+    "dealerName": "COVERT CHEVROLET OF HUTTO",
+    "generalContact": {
+     "email1": "duanelebens@covertauto.com",
+     "phone1": "(512) 759-1515",
+     "phone2": "(877) 912-5579"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4
+      ]
+     },
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       5
+      ]
+     },
+     {
+      "openFrom": "10:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       7
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "03:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       7
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "03:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       7
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.covertcountryofhutto.com",
+    "scheduleServiceUrl": "http://www.covertcountryofhutto.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.5488,
+     "longitude": -97.5184
+    },
+    "address": {
+     "addressLine1": "1200B HWY 79 E",
+     "postalCode": "786340000",
+     "cityName": "HUTTO",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 18.8679,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30019",
+    "sellingBrandCode": "13",
+    "bac": "161005",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114811,
+    "dealerName": "DON HEWLETT CHEVROLET BUICK, INC.",
+    "generalContact": {
+     "email1": "gmmail@donhewlett.com",
+     "phone1": "(512) 681-3000",
+     "phone2": "(512) 537-3445"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.donhewlett.com",
+    "scheduleServiceUrl": "http://www.donhewlett.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.5765,
+     "longitude": -97.6906
+    },
+    "address": {
+     "addressLine1": "7601 IH - 35 S",
+     "postalCode": "786267508",
+     "cityName": "GEORGETOWN",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 19.9286,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "GM Performance Parts",
+      "code": "046"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "COLLISION - WHOLESALE",
+      "code": "209"
+     },
+     {
+      "name": "POWERTRAIN - WHOLESALE",
+      "code": "210"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30143",
+    "sellingBrandCode": "13",
+    "bac": "114811",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114878,
+    "dealerName": "COVERT CHEVROLET BUICK GMC",
+    "generalContact": {
+     "email1": "covertchev@yahoo.com",
+     "phone1": "(512) 303-2311",
+     "phone2": "(877) 261-7888"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     },
+     {
+      "openFrom": "11:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       7
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.covertbastrop.com",
+    "scheduleServiceUrl": "http://www.covertbastrop.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.11045,
+     "longitude": -97.35163
+    },
+    "address": {
+     "addressLine1": "702 STATE HIGHWAY 71 W",
+     "postalCode": "786024029",
+     "cityName": "BASTROP",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 20.805,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30148",
+    "sellingBrandCode": "13",
+    "bac": "114878",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114876,
+    "dealerName": "CHUCK NASH CHEVROLET BUICK GMC",
+    "generalContact": {
+     "email1": "lauraw@chucknash.com",
+     "phone1": "(512) 353-7788",
+     "phone2": "(877) 912-8192"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.chucknashchevroletbuickgmc.com",
+    "scheduleServiceUrl": "http://www.chucknashchevroletbuickgmc.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.9363,
+     "longitude": -97.8864
+    },
+    "address": {
+     "addressLine1": "3209 N IH 35",
+     "postalCode": "786666980",
+     "cityName": "SAN MARCOS",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 29.017,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Cadillac E-Commerce Dealer",
+      "code": "122"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30465",
+    "sellingBrandCode": "13",
+    "bac": "114876",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 189155,
+    "dealerName": "LULING CHEVROLET BUICK GMC",
+    "generalContact": {
+     "email1": "pj_mccafferty@yahoo.com",
+     "phone1": "(830) 875-5425",
+     "phone2": "(877) 912-8431"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "12:30 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "12:30 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.lulingchevrolet.com",
+    "scheduleServiceUrl": "http://www.lulingchevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.68006,
+     "longitude": -97.64188
+    },
+    "address": {
+     "addressLine1": "1088 E PIERCE ST",
+     "postalCode": "786482712",
+     "cityName": "LULING",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 42.3158,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Cadillac E-Commerce Dealer",
+      "code": "122"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30201",
+    "sellingBrandCode": "13",
+    "bac": "189155",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 291025,
+    "dealerName": "CHEVROLET BUICK MARBLE FALLS",
+    "generalContact": {
+     "phone1": "(830) 693-2777",
+     "phone2": "(830) 637-7212"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.marblefallschevy.com",
+    "scheduleServiceUrl": "http://www.marblefallschevy.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.5943,
+     "longitude": -98.2719
+    },
+    "address": {
+     "addressLine1": "2301 HWY 281 NORTH",
+     "postalCode": "786544323",
+     "cityName": "MARBLE FALLS",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 43.559,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30270",
+    "sellingBrandCode": "13",
+    "bac": "291025",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 112328,
+    "dealerName": "MILLER-STARNES CHEVROLET-BUICK, INC.",
+    "generalContact": {
+     "email1": "millerstarnes@hotmail.com",
+     "phone1": "(512) 446-5841",
+     "phone2": "(512) 430-4680"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.millerstarnes.com",
+    "scheduleServiceUrl": "http://www.millerstarnes.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.6535,
+     "longitude": -97.0055
+    },
+    "address": {
+     "addressLine1": "476 W CAMERON",
+     "postalCode": "765672823",
+     "cityName": "ROCKDALE",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 44.6982,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "07424",
+    "sellingBrandCode": "13",
+    "bac": "112328",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 208869,
+    "dealerName": "VALMARK CHEVROLET",
+    "generalContact": {
+     "email1": "val@valmarkchevy.com",
+     "phone1": "(830) 606-3451",
+     "phone2": "(877) 914-7975"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "04:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "04:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.valmarkchevy.com",
+    "scheduleServiceUrl": "http://www.valmarkchevy.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.68777,
+     "longitude": -98.11922
+    },
+    "address": {
+     "addressLine1": "725 IH 35 S",
+     "postalCode": "781304836",
+     "cityName": "NEW BRAUNFELS",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 51.0313,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Cadillac E-Commerce Dealer",
+      "code": "122"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30394",
+    "sellingBrandCode": "13",
+    "bac": "208869",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114843,
+    "dealerName": "SEGUIN CHEVROLET, INC.",
+    "generalContact": {
+     "email1": "karen@seguinchevrolet.com",
+     "phone1": "(830) 303-4381",
+     "phone2": "(877) 540-1191"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.seguinchevrolet.com",
+    "scheduleServiceUrl": "http://www.seguinchevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.59737,
+     "longitude": -97.97079
+    },
+    "address": {
+     "addressLine1": "509 W I-H 10",
+     "postalCode": "781551424",
+     "cityName": "SEGUIN",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 52.1879,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30230",
+    "sellingBrandCode": "13",
+    "bac": "114843",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 295810,
+    "dealerName": "OVIEDO CHEVROLET-GMC",
+    "generalContact": {
+     "phone1": "(979) 968-8327",
+     "phone2": "(855) 207-8687"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.oviedochevrolet.com",
+    "scheduleServiceUrl": "http://www.oviedochevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.9065,
+     "longitude": -96.8775
+    },
+    "address": {
+     "addressLine1": "108 W. COLORADO",
+     "postalCode": "789452204",
+     "cityName": "LA GRANGE",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 52.2284,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30073",
+    "sellingBrandCode": "13",
+    "bac": "295810",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 112298,
+    "dealerName": "DON RINGLER CHEVROLET",
+    "generalContact": {
+     "email1": "dar1149@aol.com",
+     "phone1": "(254) 778-4285",
+     "phone2": "(254) 598-4597"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "02:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "02:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.donringlerchevrolet.com",
+    "scheduleServiceUrl": "http://www.donringlerchevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 31.0588,
+     "longitude": -97.4391
+    },
+    "address": {
+     "addressLine1": "7777 S GENERAL BRUCE DR",
+     "postalCode": "765025815",
+     "cityName": "TEMPLE",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 54.084,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Cadillac E-Commerce Dealer",
+      "code": "122"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "07607",
+    "sellingBrandCode": "13",
+    "bac": "112298",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 277892,
+    "dealerName": "ALL AMERICAN CHEVROLET OF KILLEEN",
+    "generalContact": {
+     "phone1": "(254) 200-4600",
+     "phone2": "(254) 220-4170"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "04:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "04:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.killeenchevrolet.com",
+    "scheduleServiceUrl": "http://www.killeenchevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 31.0918,
+     "longitude": -97.7238
+    },
+    "address": {
+     "addressLine1": "1802 EAST CENTRAL TEXAS EXPRESSWAY",
+     "postalCode": "765419113",
+     "cityName": "KILLEEN",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 55.457,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "07137",
+    "sellingBrandCode": "13",
+    "bac": "277892",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 194896,
+    "dealerName": "CALDWELL COUNTRY CHEVROLET",
+    "generalContact": {
+     "email1": "jon@caldwellcountry.com",
+     "phone1": "(979) 567-1500",
+     "phone2": "(979) 315-4352"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:30 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "01:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.caldwellcountrychevrolet.com",
+    "scheduleServiceUrl": "http://www.caldwellcountrychevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.5445,
+     "longitude": -96.6856
+    },
+    "address": {
+     "addressLine1": "800 STATE HWY 21 EAST",
+     "postalCode": "778364512",
+     "cityName": "CALDWELL",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 58.8117,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Natural Gas Vehicles",
+      "code": "108"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "07080",
+    "sellingBrandCode": "13",
+    "bac": "194896",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114916,
+    "dealerName": "GUNN CHEVROLET, LTD.",
+    "generalContact": {
+     "email1": "chevrolet@gunnauto.com",
+     "phone1": "(210) 599-5000",
+     "phone2": "(210) 598-6239"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "09:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "08:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.gunnchevrolet.com",
+    "scheduleServiceUrl": "http://www.gunnchevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.58887,
+     "longitude": -98.29652
+    },
+    "address": {
+     "addressLine1": "16550 IH 35 NORTH",
+     "postalCode": "781541460",
+     "cityName": "SELMA",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 62.904,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Natural Gas Vehicles",
+      "code": "108"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Bolt Sales and Service",
+      "code": "258"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30240",
+    "sellingBrandCode": "13",
+    "bac": "114916",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 112223,
+    "dealerName": "JIM HOFFPAUIR, INC.",
+    "generalContact": {
+     "email1": "leehoffpauir@yahoo.com",
+     "phone1": "(512) 556-6285",
+     "phone2": "(877) 410-6897"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.jhauto.com",
+    "scheduleServiceUrl": "http://www.jhauto.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 31.0737,
+     "longitude": -98.1858
+    },
+    "address": {
+     "addressLine1": "802 N KEY",
+     "postalCode": "765501123",
+     "cityName": "LAMPASAS",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 63.2465,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Cadillac Certifed Pre-Owned",
+      "code": "026"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "07315",
+    "sellingBrandCode": "13",
+    "bac": "112223",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 118661,
+    "dealerName": "BRASHER MOTOR COMPANY OF WEIMAR, INC.",
+    "generalContact": {
+     "email1": "ADMIN@BRASHERMOTORS.COM",
+     "phone1": "(979) 725-8515",
+     "phone2": "(877) 514-0722"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "12:30 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.brashermotors.com",
+    "scheduleServiceUrl": "http://www.brashermotors.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.6913,
+     "longitude": -96.7764
+    },
+    "address": {
+     "addressLine1": "1700 INTERSTATE 10 E",
+     "postalCode": "789623601",
+     "cityName": "WEIMAR",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 65.7708,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Cadillac E-Commerce Dealer",
+      "code": "122"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30065",
+    "sellingBrandCode": "13",
+    "bac": "118661",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114865,
+    "dealerName": "RATLIFF CHEVROLET-BUICK",
+    "generalContact": {
+     "email1": "tratliff@llano.com",
+     "phone1": "(325) 247-4151",
+     "phone2": "(325) 379-8179"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "scheduleServiceUrl": "/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.7594,
+     "longitude": -98.6765
+    },
+    "address": {
+     "addressLine1": "207 W YOUNG ST",
+     "postalCode": "786431264",
+     "cityName": "LLANO",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 70.133,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": false,
+    "dealerCode": "30519",
+    "sellingBrandCode": "13",
+    "bac": "114865",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114841,
+    "dealerName": "KOEPP CHEVROLET, INC.",
+    "generalContact": {
+     "email1": "d.koepp@koeppchevy.com",
+     "phone1": "(830) 253-8000",
+     "phone2": "(877) 540-1128"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "06:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "04:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "09:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.koeppchevy.com",
+    "scheduleServiceUrl": "http://www.koeppchevy.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.35522,
+     "longitude": -98.11642
+    },
+    "address": {
+     "addressLine1": "13221 US HWY W 87",
+     "postalCode": "781210399",
+     "cityName": "LA VERNIA",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 71.0147,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30375",
+    "sellingBrandCode": "13",
+    "bac": "114841",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 117706,
+    "dealerName": "GRAFE CHEVROLET GMC",
+    "generalContact": {
+     "email1": "sales@grafechevygmc.com",
+     "phone1": "(361) 798-3281",
+     "phone2": "(361) 217-3046"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.grafechevygmc.com",
+    "scheduleServiceUrl": "http://www.grafechevygmc.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.4415,
+     "longitude": -96.9478
+    },
+    "address": {
+     "addressLine1": "407 FAIRWINDS",
+     "postalCode": "779641905",
+     "cityName": "HALLETTSVILLE",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 71.5529,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30734",
+    "sellingBrandCode": "13",
+    "bac": "117706",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 114850,
+    "dealerName": "LAROCHE CHEVROLET BUICK GMC",
+    "generalContact": {
+     "email1": "MKENJURA@LAROCHEGM.COM",
+     "phone1": "(979) 836-6666",
+     "phone2": "(979) 353-4198"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "05:30 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:30 AM",
+      "openTo": "05:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "12:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.larochegm.com",
+    "scheduleServiceUrl": "http://www.larochegm.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 30.1442,
+     "longitude": -96.4006
+    },
+    "address": {
+     "addressLine1": "900 HWY 290 W",
+     "postalCode": "778335422",
+     "cityName": "BRENHAM",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 74.0191,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Cadillac Certifed Pre-Owned",
+      "code": "026"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Cadillac E-Commerce Dealer",
+      "code": "122"
+     },
+     {
+      "name": "Shop Click Drive Used Vehicles",
+      "code": "137"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Shop Click Drive New Vehicles",
+      "code": "237"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30387",
+    "sellingBrandCode": "13",
+    "bac": "114850",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   },
+   {
+    "id": 158904,
+    "dealerName": "CAVENDER CHEVROLET",
+    "generalContact": {
+     "email1": "stuartc@stic.net",
+     "phone1": "(210) 477-8300",
+     "phone2": "(210) 598-6400"
+    },
+    "generalOpeningHour": [
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "07:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ]
+     }
+    ],
+    "serviceOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "03:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "partsOpeningHour": [
+     {
+      "openFrom": "07:00 AM",
+      "openTo": "06:00 PM",
+      "dayOfWeek": [
+       1,
+       2,
+       3,
+       4,
+       5
+      ]
+     },
+     {
+      "openFrom": "08:00 AM",
+      "openTo": "03:00 PM",
+      "dayOfWeek": [
+       6
+      ]
+     }
+    ],
+    "dealerUrl": "http://www.cavenderchevrolet.com",
+    "scheduleServiceUrl": "http://www.cavenderchevrolet.com/ServiceApptForm",
+    "geolocation": {
+     "latitude": 29.74707,
+     "longitude": -98.69556
+    },
+    "address": {
+     "addressLine1": "30700 INTERSTATE 10 - WEST",
+     "postalCode": "780069245",
+     "cityName": "BOERNE",
+     "countrySubdivisionCode": "TX",
+     "countryIso": "US"
+    },
+    "distance": 74.0587,
+    "services": [
+     {
+      "name": "Business Asct Vehicle Orders",
+      "code": "001"
+     },
+     {
+      "name": "Perform Warranty",
+      "code": "006"
+     },
+     {
+      "name": "Order Parts",
+      "code": "007"
+     },
+     {
+      "name": "Certified Pre-Owned Vehicles",
+      "code": "012"
+     },
+     {
+      "name": "Business Elite",
+      "code": "019"
+     },
+     {
+      "name": "Business Asct Fleet Orders",
+      "code": "031"
+     },
+     {
+      "name": "Fleet Daily Rental",
+      "code": "032"
+     },
+     {
+      "name": "GM BuyPower",
+      "code": "038"
+     },
+     {
+      "name": "GMF COLLEGE GRAD CR APP",
+      "code": "041"
+     },
+     {
+      "name": "Pro Shop",
+      "code": "047"
+     },
+     {
+      "name": "E-Assist Engine Certified",
+      "code": "062"
+     },
+     {
+      "name": "Corvette Certified Sales",
+      "code": "182"
+     },
+     {
+      "name": "Corvette Certified Service",
+      "code": "183"
+     },
+     {
+      "name": "Tire E-Commerce",
+      "code": "192"
+     },
+     {
+      "name": "Low Cab Forward Sales and Service",
+      "code": "200"
+     },
+     {
+      "name": "Silverado 45,55,6500HD Sales and Service",
+      "code": "201"
+     },
+     {
+      "name": "My GM Rewards Dealer",
+      "code": "202"
+     },
+     {
+      "name": "Volt Certified Sales",
+      "code": "206"
+     },
+     {
+      "name": "Volt Certified Service",
+      "code": "207"
+     },
+     {
+      "name": "GM FleetTrac Program",
+      "code": "240"
+     },
+     {
+      "name": "Courtesy Delivery Dealer",
+      "code": "246"
+     },
+     {
+      "name": "Tires",
+      "code": "990"
+     }
+    ],
+    "isCertifiedInternet": true,
+    "dealerCode": "30196",
+    "sellingBrandCode": "13",
+    "bac": "158904",
+    "makeCodes": [
+     "1",
+     "1"
+    ]
+   }
+  ]
+ }
+}
