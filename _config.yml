@@ -44,7 +44,7 @@ header_pages:
   - about.md
   - posts.md
   - projects.md
-  - books.md
+#  - books.md
   
 
 # DFM: To enable Google Analytics, add the following lines to your Jekyll site; Google Analytics will only appear in production, i.e., JEKYLL_ENV=production
