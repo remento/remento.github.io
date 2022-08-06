@@ -41,7 +41,7 @@ plugins:
 
 # Top Nav
 header_pages:
-#  - about.md
+  - about.md
 #  - posts.md
 #  - projects.md
 #  - books.md
